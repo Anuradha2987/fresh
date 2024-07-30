@@ -1,1 +1,2 @@
 addinf version 3
+with example.
